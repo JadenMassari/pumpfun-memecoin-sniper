@@ -2,9 +2,10 @@
 
 <div align="center">
 
-[![Star](https://img.shields.io/badge/⭐_Star-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pumpfun_memecoin_sniper_bot)
-    
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JadenMassari/pumpfun-memecoin-sniper/releases/tag/Solana-Sniper-Bot)
+
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
+
 </div>
 
 **Ultra-fast sniper bot for Pump.fun** — the most popular memecoin launchpad on Solana.
@@ -36,15 +37,6 @@
 | Average snipe time       | 380ms          |
 | Success rate (tested)    | 87%            |
 | Max tokens per minute    | 45             |
-
----
-
-<div align="center">
-
-[![Star](https://img.shields.io/badge/⭐_Star-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pumpfun_memecoin_sniper_bot)
-    
-</div>
 
 ---
 
