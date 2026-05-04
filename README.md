@@ -39,6 +39,15 @@
 
 ---
 
+<div align="center">
+
+[![Star](https://img.shields.io/badge/⭐_Star-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pumpfun_memecoin_sniper_bot)
+
+</div>
+
+---
+
 ## ✨ Disclaimer
 
 This is a high-risk trading tool. Memecoins are extremely volatile. Use at your own risk. The authors are not responsible for any financial losses.DYOR. Trade responsibly.
