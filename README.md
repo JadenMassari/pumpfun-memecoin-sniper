@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JadenMassari/pumpfun-memecoin-sniper/releases/tag/Solana-Sniper-Bot)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JadenMassari/pumpfun-memecoin-sniper/releases/tag/Sniper-Bot)
 
 [![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JadenMassari/pumpfun-memecoin-sniper)
 
