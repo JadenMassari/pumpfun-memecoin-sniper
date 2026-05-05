@@ -40,7 +40,7 @@
 
 | Metric                    | Value          |
 |--------------------------|----------------|
-| Average snipe time       | 380ms          |
+| Average snipe time       | 380 ms          |
 | Success rate (tested)    | 87%            |
 | Max tokens per minute    | 45             |
 
