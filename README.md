@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/polymarket-bot/main/banner.png" width="100%" alt="PumpFun Sniper Bot Banner">
+  <img src="https://github.com/JadenMassari/pumpfun-memecoin-sniper/blob/main/Pump%20Fun%20Sniper%20Bot%20Interface.png" width="100%" alt="PumpFun Sniper Bot Banner">
 </div>
 
 ---
