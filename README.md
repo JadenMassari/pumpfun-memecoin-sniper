@@ -1,4 +1,4 @@
-## 🚀 PumpFun Memecoin Sniper Bot
+## 🚀 PumpFun Sniper Bot
 
 <div align="center">
 
